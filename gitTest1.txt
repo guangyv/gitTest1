@@ -5,3 +5,4 @@ new commit2
 git commit2
 new commit3
 dev commit1
+new commit4
