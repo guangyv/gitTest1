@@ -1,5 +1,7 @@
 gitTest1
 new commit1
 git commit1
+new commit2
 git commit2
+new commit3
 dev commit1
